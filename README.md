@@ -1,33 +1,119 @@
-# 🤖 ai-object-detection
-## 👋 About this project
-This is a web AI object detection. You can use it in your web browser. This web application uses the camera of your device to detect objects.
+# 🤖 AI Object Detection Web App
+
+A real-time AI-powered object detection web application that runs directly in your browser.  
+This project uses your device camera to detect objects using modern Web AI technology.
+
+---
+
+## 👋 About This Project
+
+This is a browser-based AI Object Detection system built using web technologies and machine learning models.  
+The application captures live video from your camera and detects objects in real time.
+
+No installation required — just open and use!
+
+---
 
 ## ⚙️ Features
 
-- ✅ Toggle switch to turn AI on or off
-- ✅ Range slider to control frame rate
+- ✅ Real-time object detection
+- ✅ Toggle switch to turn AI ON/OFF
+- ✅ Frame rate control slider
+- ✅ Works directly in browser
+- ✅ Cross-browser support
+- ✅ Lightweight and fast
 
-## 🖼️ Images
-<a href="https://ibb.co/JCNgfJr"><img src="https://i.ibb.co/3kwQDZS/preview-combined.jpg" alt="preview-combined" width="100%"></a>
+---
 
-## 💪 Try it
-If you are not convinced yet just try it out here: https://woody.pizza/tensorflow/object-detection/
+## 🖼️ Project Preview
 
-## 🌐 Multiple browser support
-Probably this will work with the most browsers, but here is a list which browsers I have tested: 
+<img width="577" height="395" alt="AI Object Detection Preview" src="https://github.com/user-attachments/assets/50a4edab-57f7-48c1-9eb4-bbcb74e83c6d" />
 
-|      Browser      | supported |
-|:-----------------:|:---------:|
-|      Firefox      |     ✅     |
-|      Chrome       |     ✅     |
-|        Edge       |     ✅     |
-| Internet Explorer |     ❌     |
+---
 
-| Mobile Browser | supported |
-|:--------------:|:---------:|
-|     Firefox    |     ✅     |
-|     Chrome     |     ✅     |
+## 🚀 Live Demo
+
+Try it here:
+
+🔗 **Live App:**  
+https://woody.pizza/tensorflow/object-detection/
+
+---
+
+## 🌐 Browser Support
+
+### Desktop Browsers
+
+| Browser | Supported |
+|:--------:|:---------:|
+| Firefox | ✅ |
+| Chrome  | ✅ |
+| Edge    | ✅ |
+| Internet Explorer | ❌ |
+
+### Mobile Browsers
+
+| Browser | Supported |
+|:--------:|:---------:|
+| Firefox | ✅ |
+| Chrome  | ✅ |
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- TensorFlow.js
+- Web Camera API
+
+---
+
+## 📦 How to Use
+
+1. Open the web application.
+2. Allow camera permission.
+3. Toggle the AI switch ON.
+4. Adjust frame rate if needed.
+5. Watch real-time object detection in action.
+
+---
+
+## 📁 Project Structure
+
+ai-object-detection/
+│
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+
+
+---
 
 ## ✌️ Credits
-- [Materialize](https://materializecss.com/)
-- [ml5js](https://ml5js.org/)
+
+This project is inspired by open-source AI object detection implementations using TensorFlow.js.
+
+Modified, maintained, and customized by:
+
+**Aniket Dombale**  
+GitHub: https://github.com/aniketd33
+
+If you use or modify this project, please give proper credit by linking back to this repository.
+
+---
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+<div align="center">
+
+🚀 Built with AI & Web Technologies  
+If you like this project, please ⭐ star the repository!
+
+</div>
